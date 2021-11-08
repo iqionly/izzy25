@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @izzy25
+- 👋 Hi, I’m Mochammad Rizky Ashyari
 - 👀 I’m interested in Web Programming and Game Development such Godot
 - 🌱 I’m currently learning React and Front-End Programming like
 - 💞️ I’m looking to collaborate on other big projects and learn more about programming
